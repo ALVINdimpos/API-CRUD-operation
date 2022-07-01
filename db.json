@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "j",
+      "body": "new",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "body": "new",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
